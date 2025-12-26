@@ -38,13 +38,13 @@ ICE is a hobbyist operating system for x86_64 architecture, designed with modula
    git clone git@github.com:Definetly-a-username/ICE-X86_64-32.git
    cd ICE-X86_64-32
 
-    Build the OS:
+  Build the OS:
 
-make
+    make
 
 Run in QEMU:
 
-make run
+    make run
 
 Create bootable ISO:
 
